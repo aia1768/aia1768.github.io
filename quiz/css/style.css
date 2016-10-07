@@ -1,0 +1,52 @@
+@import 'https://fonts.googleapis.com/css?family=Orbitron';
+
+
+body {
+  
+}
+
+
+/*Change the styling for your question boxes.*/
+.question-boxes {
+  border: 10px solid #000;
+  width: 80%;
+  height: 304px;
+  display: block;
+  margin: 0 auto;
+}
+
+/*Change styling for the boxes that hold each pic. Center them as well.*/
+.pic-box {
+  border: 1px solid #000;
+  width: 15%;
+  display: inline-block;
+  text-align: center;
+}
+
+.pics {
+  width: 169px;
+  height: 170px;
+  
+}
+
+/*Change the styling for the text input field. Center the text field as well.*/
+input[type="text"] {
+  border: 1px solid #000;
+  display: block;
+  border-style: inset;
+}
+
+/*Change the styling for your button. Center your button too.*/
+.submit {
+  
+}
+
+/*Change styling for button when you hover over it*/
+.submit:hover {
+  
+}
+
+#boxOne {
+  font-family: "Orbitron";  
+}
+
